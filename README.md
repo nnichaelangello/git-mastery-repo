@@ -4,3 +4,6 @@ This repository showcases my skills in Git and GitHub. It includes a simple inte
 ## Setup
 - Clone: `git clone https://github.com/nnichaelangello/git-mastery-repo.git`
 - Run: `./simple-interest.sh`
+
+## Fixed Typo
+Changed "GitHubb" to "GitHub".
